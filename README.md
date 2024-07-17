@@ -11,7 +11,8 @@ if random.randint(1, 5) == 3:
 I know Python, HTML (MD) 🐍
 Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
-### Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs
+### Profile Viewers
 <img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
 
-<h1>i always comeback</h1>
+### Now playing
+![](https://badges.lastfm.workers.dev/last-played?user=a9fmTop&style=for-the-badge&color=blue)
